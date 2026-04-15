@@ -1,4 +1,7 @@
 # AMS_AGY_v3_specifications
+
+<a href="https://doi.org/10.5281/zenodo.19596518"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.19596518-blue.svg" alt="DOI"></a>
+
 Optical and mechanical specifications for the AMS-AGY v3 objective (a.k.a Empress Snout).
 
 ![social_preview](https://github.com/amsikking/AMS_AGY_v3_specifications/blob/main/social_preview.png)
